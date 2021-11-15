@@ -90,6 +90,10 @@ public class ViewFactory {
         for (Stage stage: activeStages) {
             Scene scene = stage.getScene();
             // handle css
+            scene.getStylesheets().clear();
+            scene.getStylesheets().add(getClass().getResource(ColorTheme.getCssPath(colorTheme)).toExternalForm());
+            scene.getStylesheets().add(getClass().getResource(FontSize.getCssPath(fontSize)).toExternalForm());
+
         }
     }
 }

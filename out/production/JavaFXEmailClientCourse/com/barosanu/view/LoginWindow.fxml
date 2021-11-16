@@ -11,8 +11,8 @@
       <Label layoutX="33.0" layoutY="104.0" text="Email Address" />
       <Label layoutX="33.0" layoutY="143.0" prefHeight="17.0" prefWidth="78.0" text="Password" />
       <TextField fx:id="emailAddressField" layoutX="132.0" layoutY="100.0" />
-    <Button fx:id="errorLabel" layoutX="168.0" layoutY="205.0" mnemonicParsing="false" onAction="#loginButtonAction" prefHeight="40.0" prefWidth="88.0" text="Login" />
+    <Button  layoutX="168.0" layoutY="205.0" mnemonicParsing="false" onAction="#loginButtonAction" prefHeight="40.0" prefWidth="88.0" text="Login" />
       <PasswordField fx:id="passwordField" layoutX="132.0" layoutY="139.0" />
-      <Label layoutX="197.0" layoutY="255.0" />
+      <Label fx:id="errorLabel" layoutX="197.0" layoutY="255.0" />
    </children>
 </AnchorPane>

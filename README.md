@@ -1,5 +1,5 @@
 # Email-Client
-An email-client created with Java/JavaFX and based on Alex Horea's [Advanced Java programming with JavaFx course](https://www.udemy.com/course/advanced-programming-with-javafx-build-an-email-client/). The application allows you to send/receive emails and read/delete just like any other email service. The UI was created using SceneBuilder and HTML/CSS were used for front-end. At present I haven't implemented data-persistence. I made this project to develop my Java skills and to see how the MVC can be used.
+An email-client created with Java/JavaFX and based on Alex Horea's [Advanced Java programming with JavaFx course](https://www.udemy.com/course/advanced-programming-with-javafx-build-an-email-client/). The application allows you to send/receive emails and read/delete just like any other email service. The UI was created using SceneBuilder and HTML/CSS were used for front-end. At present I haven't implemented data-persistence. I made this project to develop my Java skills and to see how the MVC design-pattern can be used.
 
 ### Screenshots
 <div align="center">

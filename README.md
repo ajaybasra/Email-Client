@@ -16,8 +16,7 @@ An email-client created with Java/JavaFX and based on Alex Horea's [Advanced Jav
 2. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
 
        git clone https://github.com/ajaybasra/Email-Client.git
-3. Import it into Intellij IDEA or any other Java IDE.
-4. Run the application
+3. Follow the [following tutorial](https://www.youtube.com/watch?v=HGHu-SzL-5E&t=10s) to convert the project into a .JAR file which can be run via the command line.
 
 ### Note
 In order to use Gmail, you need to enable less secure apps [at this link.](

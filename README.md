@@ -11,7 +11,7 @@ An email-client created with Java/JavaFX and based on Alex Horea's [Advanced Jav
 * Java version 17 or higher.
 
 ### Installation 🔌
-1. Press the **Fork** button (in the top-right corner of the page) to save copy of this project on your account.
+1. Press the **Fork** button (in the top-right corner of the page) to save a copy of this project on your account.
 
 2. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
 

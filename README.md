@@ -8,7 +8,7 @@ An email-client created with Java/JavaFX and based on Alex Horea's [Advanced Jav
 </div>
 
 ### Requirements 🔧
-* Java version 17 or higher.
+* Java/JavaFX version 17 or higher.
 
 ### Installation 🔌
 1. Press the **Fork** button (in the top-right corner of the page) to save a copy of this project on your account.

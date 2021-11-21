@@ -16,7 +16,7 @@ An email-client created with Java/JavaFX and based on Alex Horea's [Advanced Jav
 2. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
 
        git clone https://github.com/ajaybasra/Email-Client.git
-3. Imported it in Intellij IDEA or any other Java IDE.
+3. Import it into Intellij IDEA or any other Java IDE.
 4. Run the application
 
 ### Note

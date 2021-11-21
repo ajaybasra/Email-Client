@@ -2,8 +2,10 @@
 An email-client created with Java/JavaFX and based on Alex Horea's [Advanced Java programming with JavaFx course](https://www.udemy.com/course/advanced-programming-with-javafx-build-an-email-client/). The application allows you to send/receive emails and read/delete just like any other email service. The UI was created using SceneBuilder and HTML/CSS were used for front-end. At present I haven't implemented data-persistence. I made this project to develop my Java skills and to see how the MVC can be used.
 
 ### Screenshots
-:------------------:|:-------------------
-![Email-Client - screenshot](screenshots/Screen Shot 2021-11-21 at 1.44.05 PM.png) | ![EmailClient - screenshot](screenshots/Screen Shot 2021-11-21 at 1.44.47 PM.png)
+<div align="center">
+    <img src="https://github.com/ajaybasra/Email-Client/blob/main/screenshots/Screen%20Shot%202021-11-21%20at%201.44.05%20PM.png">
+    <img src="https://github.com/ajaybasra/Email-Client/blob/main/screenshots/Screen%20Shot%202021-11-21%20at%201.44.47%20PM.png">
+</div>
 
 ### Requirements 🔧
 * Java version 17 or higher.
@@ -18,5 +20,5 @@ An email-client created with Java/JavaFX and based on Alex Horea's [Advanced Jav
 4. Run the application
 
 ### Note
-In order to use GMail, you need to enable less secure apps [at this link.](
+In order to use Gmail, you need to enable less secure apps [at this link.](
 https://myaccount.google.com/lesssecureapps)
